@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='setPractice'/>
+        <page name='arrayPractice'/>
+        <page name='dictionaryPractice'/>
+        <page name='functionsPractice'/>
+        <page name='ifElsePractice'/>
+        <page name='forLoopPractice'/>
+        <page name='enumPractice'/>
+        <page name='operatorsPractice'/>
+        <page name='OptionalsPractice'/>
+        <page name='selfPractice'/>
+        <page name='classPractice'/>
+        <page name='structPractice'/>
+        <page name='extensionPractice'/>
+        <page name='fizzBuzzTask'/>
+    </pages>
+</playground>
